@@ -10,22 +10,20 @@ finns inga rätt eller fel — vi är nyfikna på hur du tänker.*
 **1. När du kör fast på ett problem — vad gör du *först*?**
 
 - [ ] Läser dokumentationen
-- [ ] Googlar eller frågar en AI
+- [ ] Googlar
+- [ ] Frågar en AI-assistent
 - [ ] Läser koden och felsöker själv
 - [ ] Frågar en kollega
 
-*Varför?*
+*Varför just det först?*
 
 
 
-**2. Vad gör du för att hitta information?**
+**2. Hur använde du AI i den här uppgiften, och vad fick du ändra på i det du fick
+tillbaka?**
 
-- [ ] Googlar
-- [ ] Läser officiell dokumentation
-- [ ] Frågar en kollega eller kompis
-- [ ] Frågar en AI-assistent
-
-*Varför?*
+*("Ingenting, det funkade direkt" är ett helt okej svar — men titta efter en gång till
+innan du skriver det.)*
 
 
 
@@ -56,10 +54,18 @@ produktion. Ser du någon *ytterligare* fördel med att jobba med PR?**
 
 *(fyll i när du är klar med uppgiften)*
 
-**7. Vad var svårast med uppgiften?**
+**7. Datan vi gav dig är inte helt städad. Vad hittade du, och hur valde du att låta
+koden bete sig?**
 
 
 
-**8. Om du hade en vecka till på den här uppgiften — vad hade du förbättrat först?**
+**8. Hur valde du att räkna ut din siffra på arkivsidan, och hur sorterade du listan?
+Varför så?**
 
 
+
+**9. Vad var svårast med uppgiften?**
+
+
+
+**10. Om du hade en vecka till på den här uppgiften — vad hade du förbättrat först?**
