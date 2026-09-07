@@ -130,13 +130,14 @@ men inte det vi hoppas på.
 Gör du repot **privat**, bjud in oss så vi kommer åt det — hör av dig så säger vi vilket
 användarnamn.
 
-**Deadline:** _[fyll i datum]_. Hinner du inte, säg till i förväg så löser vi det.
+**När?** Ta det i din egen takt — vi sitter inte med ett stoppur. Behöver du mer än
+ungefär en vecka på dig, säg bara till så löser vi det.
 
 ---
 
 ## Efter inlämning
 
-Vi hör av oss inom _[fyll i, t.ex. en vecka]_ efter deadline, oavsett hur det går.
+Vi hör av oss när vi läst igenom, oavsett hur det går. Du ska inte behöva undra.
 
 Går vi vidare bokar vi ett kort samtal på ungefär 20 minuter där vi öppnar din kod
 tillsammans och du får berätta hur du tänkte. Vi kommer också be dig ändra något litet i
