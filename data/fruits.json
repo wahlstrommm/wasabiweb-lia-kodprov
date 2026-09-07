@@ -6,35 +6,35 @@
       "id": 1,
       "name": "Äpple",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odlas i hela landet och finns i hundratals sorter.",
-      "image": "images/apple.jpg",
+      "image": "images/apple.svg",
       "calories": 52
     },
     {
       "id": 2,
       "name": "Banan",
       "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Skalet blir gult när frukten mognar.",
-      "image": "images/banana.jpg",
+      "image": "images/banana.svg",
       "calories": "89"
     },
     {
       "id": 3,
       "name": "Blåbär",
       "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
-      "image": "images/blueberry.jpg",
+      "image": "images/blueberry.svg",
       "calories": null
     },
     {
       "id": 4,
       "name": "Apelsin",
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.",
-      "image": "images/orange.jpg",
+      "image": "images/orange.svg",
       "calories": 47
     },
     {
       "id": 4,
       "name": "Kiwi",
       "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.",
-      "image": "images/kiwi.jpg",
+      "image": "images/kiwi.svg",
       "calories": 61
     },
     {
@@ -54,7 +54,7 @@
       "id": 8,
       "name": "Vattenmelon",
       "description": "",
-      "image": "images/watermelon.jpg",
+      "image": "images/watermelon.svg",
       "calories": 30
     }
   ]

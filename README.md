@@ -31,9 +31,9 @@ Du ska bygga en liten webbplats med **två vyer**:
 1. En **arkivsida** som visar en lista med frukter.
 2. En **detaljsida** som visar mer information om *en* frukt när man klickar på den.
 
-Datan får du av oss: `data/fruits.json` ligger redan i projektet. Den är exporterad ur
-ett äldre system och är inte perfekt — precis som riktig data sällan är. Läs igenom
-filen innan du börjar koda.
+Datan får du av oss: `data/fruits.json` ligger redan i projektet, tillsammans med
+bilderna i `images/`. Filen är exporterad ur ett äldre system och är inte perfekt —
+precis som riktig data sällan är. Läs igenom den innan du börjar koda.
 
 ### Vad som ska fungera
 
@@ -75,7 +75,7 @@ css/style.css
 js/main.js          -> hämtar och listar frukterna på arkivsidan
 js/fruit.js         -> logiken för den enskilda fruktsidan
 data/fruits.json    -> datan om varje frukt (den får du av oss)
-images/             -> fruktbilder (eller placeholders)
+images/             -> fruktbilder (får du av oss)
 ```
 
 ### Kör projektet lokalt
